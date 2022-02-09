@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I solve problems about Art x Tech 😎
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+안녕하세요! I am currently a GKS scholar, studying Korean in Duksung Women's University. After the language program, I will be doing my Ph.D. in Culture Technology at KAIST and will be focusing mainly on machine learning applied to music and film.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my master's and undergraduate degree from the University of the Philippines Diliman, where I was advised by <a href="https://scholar.google.com/citations?user=bQ__zDwAAAAJ">Dr. Franz de Leon</a> in the Digital Signal Processing Laboratory. Both of my theses were related to machine learning for music applications: <a href="https://ieeexplore.ieee.org/abstract/document/7482230">melody extraction</a> and <a href="https://ieeexplore.ieee.org/abstract/document/9293783">music source separation</a>. While doing my master's degree, I was a Research Associate working under <a href="https://scholar.google.com.ph/citations?user=ZkpXaOsAAAAJ"> Dr. Rowel Atienza</a> in the Ubiquitous Computing Laboratory which focused on developing <a href="https://www.youtube.com/channel/UCqPIsBhROQFVdnwGUzLCd1w">virtual reality applications</a>. Prior to going to Korea, I worked under the <a href="https://stamina4space.upd.edu.ph/">Stamina4Space program</a> implementing <a href="https://www.youtube.com/watch?v=libBcmhUO4Q&ab_channel=VanTanTV">reinforcement learning</a> algorithms to microsatellite simulations for the <a href="https://stamina4space.upd.edu.ph/projects/phl-50/">PHL-50 project</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I love to listen to music, <a href="https://www.youtube.com/channel/UCP09__BYNduUhtexuLQCFWQ">play the guitar</a>, travel, and <a href="https://www.instagram.com/colormetaan/">take photographs</a>. Feel free to tweet me and drop a message via email.
