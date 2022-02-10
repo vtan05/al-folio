@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /assets/pdf/cv.pdf
 title: cv
 description:
-nav: false
+nav: true
 ---
